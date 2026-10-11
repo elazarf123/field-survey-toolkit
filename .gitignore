@@ -1,0 +1,8 @@
+# Completed surveys, photos, and command output belong in approved storage, not this repo
+*.jpg
+*.jpeg
+*.png
+*.heic
+# OS
+.DS_Store
+Thumbs.db
